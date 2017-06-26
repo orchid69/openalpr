@@ -2,6 +2,10 @@ project(src)
 
 set(CMAKE_BUILD_TYPE RelWithDebugInfo)
 #set(CMAKE_BUILD_TYPE Debug)
+SET(OpenCV_DIR "/usr/local/lib")
+SET(Tesseract_DIR "/usr/local/src/tesseract-ocr")
+SET(CMAKE_CXX_FLAGS "-std=c++11")
+SET(WITH_GPU_DETECTOR "1")
 
 cmake_minimum_required (VERSION 2.6)
 
