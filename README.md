@@ -1,3 +1,5 @@
+Please check [Wiki](https://github.com/orchid69/openalpr/wiki)
+
 openalpr
 ========
 
